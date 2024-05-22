@@ -1,15 +1,10 @@
-<center><img alt="origins minus banner" src="https://user-images.githubusercontent.com/55819817/230751145-56d0c976-9167-44fb-a94a-e3d036095dc2.png" /></center>
+<center><img alt="origins minus banner" src="https://cdn.modrinth.com/data/gbOL9is1/images/64871db04be5fb75bc513a6db9a10b71e58927a1.png" /></center>
 
 <center>
 Simple origins with less to remember.<br/>
 Requires <a href="https://modrinth.com/mod/origins/versions">Origins</a> and <a href="https://modrinth.com/mod/pehkui">Pehkui</a>. Replaces all base origins.<br/>
 Also try the <a href="https://modrinth.com/mod/toomanyorigins">TooManyOrigins</a> 1.0 rework! 
 </center>
-
----
-
-<center><b>Packs:</b> <a href="https://modrinth.com/modpack/tinkerers-quilt">Tinkerer's Quilt</a> (<a href="https://modrinth.com/modpack/tinkerers-silk">Silk</a>) - <a href="https://modrinth.com/modpack/switchy-pack">Switchy Pack</a></center>
-<center><b>Mods:</b> <a href="https://modrinth.com/mod/switchy">Switchy</a> - <i>Origins Minus</i> (<a href="https://modrinth.com/mod/tinkerers-statures">Statures</a>) - <a href="https://modrinth.com/mod/tinkerers-smithing">Tinkerer's Smithing</a></center>
 
 ---
 
@@ -101,3 +96,11 @@ All mods are built on the work of many others.
 This mod is included in [Tinkerer's Quilt](https://modrinth.com/modpack/tinkerers-quilt) - our modpack about ease of play and self-expression.
 
 We're open to suggestions for how to implement stuff better - if you see something wonky and have an idea - let us know.
+
+---
+
+<center>
+<b>Tinkerer's:</b> <a href="https://modrinth.com/modpack/tinkerers-quilt">Quilt</a> - <a href="https://modrinth.com/mod/tinkerers-smithing">Smithing</a> - <i>Origins</i> - <a href="https://modrinth.com/mod/tinkerers-statures">Statures</a> - <a href="https://modrinth.com/mod/picohud">HUD</a><br/>
+<b>Loveletters:</b> <a href="https://modrinth.com/mod/inventory-tabs">Tabs</a> - <a href="https://modrinth.com/mod/antique-atlas-4">Atlas</a> - <a href="https://modrinth.com/mod/portable-crafting">Portable Crafting</a> - <a href="https://modrinth.com/mod/drogstyle">Drogstyle</a><br/>
+<b>Others:</b> <a href="https://modrinth.com/mod/switchy">Switchy</a> - <a href="https://modrinth.com/mod/crunchy-crunchy-advancements">Crunchy</a> - <a href="https://modrinth.com/mod/starcaller">Starcaller</a><br/>
+</center>
