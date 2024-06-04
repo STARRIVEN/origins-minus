@@ -21,6 +21,7 @@
 		"minecraft:spider",
 		"minecraft:zoglin",
 		"minecraft:zombified_piglin",
-		"minecraft:enderman"
+		"minecraft:enderman",
+		"#sculkhorde:sculk_entity"
 	]
 }
